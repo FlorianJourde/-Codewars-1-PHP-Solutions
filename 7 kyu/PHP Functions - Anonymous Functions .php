@@ -1,6 +1,6 @@
 <?php
 
-// PHP Functions - Anonymous Functions 
+// PHP Functions - Anonymous Functions (aka Closures)
 $hello_world = function() {
   return 'Hello World';
 };
